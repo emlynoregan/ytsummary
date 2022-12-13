@@ -8,7 +8,7 @@ You will require an api key for Open API. Sign up for one [here](https://openai.
 
 ### Usage
 
-First install python and pip. Then set up a virtual environment and install the requirements using the setupvenv script:
+First install python (I used v3.10). Then set up a virtual environment and install the requirements using the setupvenv script:
 
 Windows:
 ```
