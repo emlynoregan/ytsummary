@@ -17,7 +17,7 @@ Windows:
 
 Linux / Mac:
 ```
-./setupvenv.sh
+. ./setupvenv.sh
 ```
 
 Next, copy the file 'setcreds template.py' to 'setcreds.py' and fill in your OpenAI API key.
